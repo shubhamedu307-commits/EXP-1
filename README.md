@@ -61,7 +61,7 @@ a.   KVL:
 
 b.  KCL:
 
-![Uploading EXP1.png…]()
+<img width="1130" height="582" alt="EXP1" src="https://github.com/user-attachments/assets/a0ab516f-9403-4f1e-a3ca-4bd51bd27838" />
 
 
 
