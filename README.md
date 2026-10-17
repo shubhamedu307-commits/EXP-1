@@ -61,7 +61,7 @@ a.   KVL:
 
 b.  KCL:
 
-<img width="1130" height="582" alt="EXP1" src="https://github.com/user-attachments/assets/a0ab516f-9403-4f1e-a3ca-4bd51bd27838" />
+<img width="822" height="1099" alt="PROTEUS" src="https://github.com/user-attachments/assets/7d61f341-de87-4c8b-9e7e-b6f474946a31" />
 
 
 
